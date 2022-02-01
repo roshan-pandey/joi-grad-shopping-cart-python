@@ -2,7 +2,7 @@ from src.model.product import Product
 from src.model.customer import Customer
 from src.model.shoppingcart import ShoppingCart
 
-
+# Program starts here...
 def main():
     product1 = Product(10.0, "DIS_10_PRODUCT1", "product 1")
     product2 = Product(20.0, "DIS_10_PRODUCT2", "product 2")
